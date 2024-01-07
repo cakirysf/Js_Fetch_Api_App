@@ -1,7 +1,7 @@
 <h1>Fetch API & Async, Await kullanıma temel bir örnek</h1>
 
 <ul>
-  <li>JavaScript Code/ JavaSciprt Kodları kullanıldı</li>
+  <li>JavaScript Code/ JavaScript Kodları kullanıldı</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
